@@ -1,0 +1,6 @@
+streamlit==1.26.0
+pillow
+pandas
+opencv-python
+torch
+ultralytics

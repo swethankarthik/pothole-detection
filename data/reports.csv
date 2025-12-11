@@ -1,0 +1,4 @@
+id,timestamp,original_image,processed_image,latitude,longitude,pothole_count,severity,severity_pct,avg_confidence,notes
+0ff032a8,2025-12-11T20:22:30.566882,0ff032a8_orig.jpg,0ff032a8_proc.jpg,12.9177,77.6230,13,large,9.458128078817735,0.671,
+8c60388e,2025-12-11T20:26:26.672350,8c60388e_orig.jpg,8c60388e_proc.jpg,17.4483,78.3915,7,large,7.1291989664082696,0.694,
+a28c7362,2025-12-11T20:27:46.470840,a28c7362_orig.jpg,a28c7362_proc.jpg,12.9802,80.2185,3,large,10.198527057316682,0.763,
